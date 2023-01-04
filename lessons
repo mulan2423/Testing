@@ -1,0 +1,11 @@
+let n =1;
+while (n <=10) {
+    console.log(n);
+    n = n + 1;
+}
+const daysOfWeek = ['sunday','monday,'tuesday','wednesday','thursday','friday','saturday];
+
+function canWeGoToTheMovies(){
+
+}
+console.log('daysOfWeek'.3)
